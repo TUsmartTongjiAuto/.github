@@ -20,7 +20,5 @@ TU-Smart智能车队成立于2005年，主要研究汽车电子与智能化，�
 [<img src="https://wsrv.nl/?url=github.com/weyumm.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="32" height="32" alt="Weyumm"/>](https://github.com/weyumm)  
 <strong>张恒祯</strong>
 
-&nbsp;&nbsp;
-
 [<img src="https://wsrv.nl/?url=github.com/lhy-cpu.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="32" height="32" alt="lhy-cpu"/>](https://github.com/lhy-cpu)  
 <strong>廖宏烨</strong>
