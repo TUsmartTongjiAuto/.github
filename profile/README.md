@@ -15,9 +15,27 @@ TU-Smart智能车队成立于2005年，主要研究汽车电子与智能化，�
 <h3>🎓 22级队员</h3>
 
 <h3>🎓 23级队员</h3>
-<h3>🎓 23级队员</h3>
 
-[<img src="https://wsrv.nl/?url=github.com/weyumm.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="32" height="32" alt="Weyumm"/>](https://github.com/weyumm)  
-<strong>张恒祯</strong>
-[<img src="https://wsrv.nl/?url=github.com/lhy-cpu.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="32" height="32" alt="lhy-cpu"/>](https://github.com/lhy-cpu)  
-<strong>廖宏烨</strong>
+<table style="border-collapse: collapse; margin: 0;">
+  <tr>
+    <!-- 成员 1 -->
+    <td style="padding: 8px; text-align: center; vertical-align: top;">
+      <a href="https://github.com/weyumm">
+        <img src="https://wsrv.nl/?url=github.com/weyumm.png?w=128&h=128&mask=circle&fit=cover&maxage=1w" width="64" height="64" style="border-radius: 50%;" />
+      </a>
+      <br>
+      <strong>张恒祯</strong>
+    </td>
+
+    <!-- 成员 2 -->
+    <td style="padding: 8px; text-align: center; vertical-align: top;">
+      <a href="https://github.com/lhy-cpu">
+        <img src="https://wsrv.nl/?url=github.com/lhy-cpu.png?w=128&h=128&mask=circle&fit=cover&maxage=1w" width="64" height="64" style="border-radius: 50%;" />
+      </a>
+      <br>
+      <strong>廖宏烨</strong>
+    </td>
+
+    <!-- 继续添加 <td>...</td> 即可横向扩展 -->
+  </tr>
+</table>
