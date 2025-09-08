@@ -15,7 +15,8 @@ TU-Smart智能车队成立于2005年，主要研究汽车电子与智能化，�
 <h3>🎓 22级队员</h3>
 
 <h3>🎓 23级队员</h3>
-<table style="border-collapse: collapse; margin: 0;">
+
+<table style="border-collapse: collapse;">
   <tr>
     <!-- 成员 1 -->
     <td style="padding: 8px; text-align: center; vertical-align: top;">
@@ -35,6 +36,6 @@ TU-Smart智能车队成立于2005年，主要研究汽车电子与智能化，�
       <strong>廖宏烨</strong>
     </td>
 
-    <!-- 继续添加 <td>...</td> 即可横向扩展 -->
+    <!-- 继续添加更多 <td> 即可 -->
   </tr>
 </table>
