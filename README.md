@@ -13,16 +13,16 @@ TU-Smart智能车队成立于2005年，主要研究汽车电子与智能化，�
 <div align=center><h2> 💐 队员列表 💐 </h2></div>
 <div align=center> 感谢以下所有为TUSmart做出贡献的同学们 </div>
 <!-- ============= 23级 ============= -->
-<h3>🎓 23级队员</h3>
-<div style="overflow-x: auto; white-space: nowrap; padding: 10px 0;">
-  <div style="display: inline-block; margin-right: 20px; text-align: center; vertical-align: top;">
+<h3 style="clear: both;">🎓 23级队员</h3>
+<div style="overflow: hidden; padding: 10px 0;">
+  <div style="float: left; margin-right: 20px; text-align: center;">
     <a href="https://github.com/lhy-cpu">
       <img src="https://wsrv.nl/?url=github.com/lhy-cpu.png?w=128&h=128&mask=circle&fit=cover&maxage=1w" width="64" height="64" alt="lhy-cpu" style="border-radius: 50%;"/>
     </a>
     <br>
     <strong>廖宏烨</strong>
   </div>
-  <div style="display: inline-block; margin-right: 20px; text-align: center; vertical-align: top;">
+  <div style="float: left; margin-right: 20px; text-align: center;">
     <a href="https://github.com/weyumm">
       <img src="https://wsrv.nl/?url=github.com/weyumm.png?w=128&h=128&mask=circle&fit=cover&maxage=1w" width="64" height="64" alt="Weyumm" style="border-radius: 50%;"/>
     </a>
@@ -30,5 +30,7 @@ TU-Smart智能车队成立于2005年，主要研究汽车电子与智能化，�
     <strong>张恒祯</strong>
   </div>
 
-  <!-- 继续添加更多成员，都会排在一行，横向滚动查看 -->
+  <!-- 后续成员继续 float: left，会从左到右排列 -->
+  <!-- 注意：最后建议加一个清除浮动的元素 -->
 </div>
+<div style="clear: both;"></div>
