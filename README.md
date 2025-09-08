@@ -14,3 +14,23 @@ TU-Smart智能车队成立于2005年，主要研究汽车电子与智能化，�
 <div align=center> 感谢以下所有为TUSmart做出贡献的同学们 </div>
 
 [<img src="https://wsrv.nl/?url=github.com/weyumm.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="32" height="32" alt="0-yy-0"/>](https://github.com/weyumm)
+<!-- ============= 23级 ============= -->
+<h3 align="center">🎓 23级队员</h3>
+<div align="center">
+  <div style="display: inline-block; margin: 10px; text-align: center;">
+    <a href="https://github.com/lhy-cpu">
+      <img src="https://wsrv.nl/?url=github.com/lhy-cpu.png?w=128&h=128&mask=circle&fit=cover&maxage=1w" width="64" height="64" alt="lhy-cpu" style="border-radius: 50%;"/>
+    </a>
+    <br>
+    <strong>廖宏烨</strong>
+  </div>
+  <div style="display: inline-block; margin: 10px; text-align: center;">
+    <a href="https://github.com/weyumm">
+      <img src="https://wsrv.nl/?url=github.com/weyumm.png?w=128&h=128&mask=circle&fit=cover&maxage=1w" width="64" height="64" alt="Weyumm" style="border-radius: 50%;"/>
+    </a>
+    <br>
+    <strong>张恒祯</strong>
+  </div>
+
+  <!-- 可继续添加其他23级成员 -->
+</div>
