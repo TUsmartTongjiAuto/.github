@@ -15,7 +15,6 @@ TU-Smart智能车队成立于2005年，主要研究汽车电子与智能化，�
 <h3>🎓 22级队员</h3>
 
 <h3>🎓 23级队员</h3>
-
 <table style="border-collapse: collapse; margin: 0;">
   <tr>
     <!-- 成员 1 -->
