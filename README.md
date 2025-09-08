@@ -1,5 +1,11 @@
 <div align=center><h1>TU-Smart智能车队</h1></div>
-<img width="624" height="324" alt="TUSmart" src="https://github.com/user-attachments/assets/8eeb01ac-315e-40a8-812b-08d8c999350d" />
+<div style="text-align: center;">
+  <img 
+    src="https://github.com/user-attachments/assets/8eeb01ac-315e-40a8-812b-08d8c999350d"
+    alt="TUSmart"
+    style="width: 312px; height: 162px; display: inline-block;"
+  />
+</div>
 
 
 TU-Smart智能车队成立于2005年，主要研究汽车电子与智能化，旨在培养学科交叉融合能力、体验工程性研究项目的完整开发过程。车队分为软件和硬件两大方向，下设电磁、创意、室外越野、完全模型组等多个组别。
