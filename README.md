@@ -12,8 +12,6 @@ TU-Smart智能车队成立于2005年，主要研究汽车电子与智能化，�
 
 <div align=center><h2> 💐 队员列表 💐 </h2></div>
 <div align=center> 感谢以下所有为TUSmart做出贡献的同学们 </div>
-
-[<img src="https://wsrv.nl/?url=github.com/weyumm.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="32" height="32" alt="0-yy-0"/>](https://github.com/weyumm)
 <!-- ============= 23级 ============= -->
 <h3 align="center">🎓 23级队员</h3>
 <div align="center">
@@ -32,5 +30,5 @@ TU-Smart智能车队成立于2005年，主要研究汽车电子与智能化，�
     <strong>张恒祯</strong>
   </div>
 
-  <!-- 可继续添加其他23级成员 -->
+  <!-- 可继续添加其他23级成员，会自动横向排列，放不下时换行 -->
 </div>
