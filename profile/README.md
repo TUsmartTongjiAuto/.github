@@ -12,6 +12,11 @@ TU-Smart智能车队成立于2005年，主要研究汽车电子与智能化，�
 <div align=center> 感谢以下所有为TUSmart做出贡献的同学们 </div>
 <h3>🎓 21级队员</h3>
 <table style="border-collapse:collapse"><tr>
+<td style="padding:8px;text-align:center;vertical-align:top">
+  <a href="https://github.com/Rtranran">
+    <img src="https://wsrv.nl/?url=github.com/Rtranran.png?w=128&h=128&mask=circle&fit=cover&maxage=1w" width="64" height="64" style="border-radius:50%" />
+  </a><br><strong>倪玺然</strong>
+</td>
 
 <td style="padding:8px;text-align:center;vertical-align:top">
   <a href="https://github.com/kasssssss">
