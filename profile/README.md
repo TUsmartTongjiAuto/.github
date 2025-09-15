@@ -9,7 +9,7 @@ TU-Smart智能车队成立于2005年，主要研究汽车电子与智能化，�
 <div align=center>
 
 <div align=center><h2> 🚘 指导老师 🚘 </h2></div>
-<div align=center> 感谢两位老师对车队的悉心指导 </div>
+<div align=center> 感谢老师们对车队的悉心指导 </div>
 <table style="border-collapse:collapse"><tr>
 <td style="padding:8px;text-align:center;vertical-align:top">
   <a href="https://github.com/wei-tian">
