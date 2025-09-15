@@ -8,6 +8,22 @@ TU-Smart智能车队成立于2005年，主要研究汽车电子与智能化，�
 
 <div align=center>
 
+<div align=center><h2> 🚘 指导老师 🚘 </h2></div>
+<table style="border-collapse:collapse"><tr>
+<td style="padding:8px;text-align:center;vertical-align:top">
+  <a href="https://github.com/wei-tian">
+    <img src="https://wsrv.nl/?url=github.com/wei-tian.png?w=128&h=128&mask=circle&fit=cover&maxage=1w" width="64" height="64" style="border-radius:50%" />
+  </a><br><strong>田炜</strong>
+</td>
+
+<td style="padding:8px;text-align:center;vertical-align:top">
+  <a href="https://github.com/tc">
+    <img src="https://wsrv.nl/?url=github.com/tc.png?w=128&h=128&mask=circle&fit=cover&maxage=1w" width="64" height="64" style="border-radius:50%" />
+  </a><br><strong>唐晨</strong>
+</td>
+<!-- 继续添加更多 <td>...</td> -->
+</tr></table>
+
 <div align=center><h2> 💐 队员列表 💐 </h2></div>
 <div align=center> 感谢以下所有为TUSmart做出贡献的同学们 </div>
 <h3>🎓 21级队员</h3>
@@ -89,7 +105,13 @@ TU-Smart智能车队成立于2005年，主要研究汽车电子与智能化，�
 <td style="padding:8px;text-align:center;vertical-align:top">
   <a href="https://github.com/GRglory123">
     <img src="https://wsrv.nl/?url=github.com/GRglory123.png?w=128&h=128&mask=circle&fit=cover&maxage=1w" width="64" height="64" style="border-radius:50%" />
-  </a><br><strong>郭 睿</strong>
+  </a><br><strong>郭睿</strong>
 </td>、
+
+<td style="padding:8px;text-align:center;vertical-align:top">
+  <a href="https://github.com/liufanpiao">
+    <img src="https://wsrv.nl/?url=github.com/liufanpiao.png?w=128&h=128&mask=circle&fit=cover&maxage=1w" width="64" height="64" style="border-radius:50%" />
+  </a><br><strong>柳一凡</strong>
+</td>
 <!-- 继续添加更多 <td>...</td> -->
 </tr></table>
