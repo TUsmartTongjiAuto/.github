@@ -132,5 +132,12 @@ TU-Smart智能车队成立于2005年，主要研究汽车电子与智能化，�
     <img src="https://wsrv.nl/?url=github.com/XuYiShe.png?w=128&h=128&mask=circle&fit=cover&maxage=1w" width="64" height="64" style="border-radius:50%" />
   </a><br><strong>徐意</strong>
 </td>
+
+<td style="padding:8px;text-align:center;vertical-align:top">
+  <a href="https://github.com/boatchting">
+    <img src="https://wsrv.nl/?url=github.com/boatchanting.png?w=128&h=128&mask=circle&fit=cover&maxage=1w" width="64" height="64" style="border-radius:50%" />
+  </a><br><strong>高行周</strong>
+</td>
+
 <!-- 继续添加更多 <td>...</td> -->
 </tr></table>
