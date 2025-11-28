@@ -8,10 +8,32 @@ TU-Smart智能车队成立于2005年，主要研究汽车电子与智能化，�
 
 <div align=center>
 
+<div align=center><h2> 🚘 指导老师 🚘 </h2></div>
+<div align=center> 感谢老师们对车队的悉心指导 </div>
+<table style="border-collapse:collapse"><tr>
+<td style="padding:8px;text-align:center;vertical-align:top">
+  <a href="https://github.com/wei-tian">
+    <img src="https://wsrv.nl/?url=github.com/wei-tian.png?w=128&h=128&mask=circle&fit=cover&maxage=1w" width="64" height="64" style="border-radius:50%" />
+  </a><br><strong>田老师</strong>
+</td>
+
+<td style="padding:8px;text-align:center;vertical-align:top">
+  <a href="https://github.com/tctongji">
+    <img src="https://wsrv.nl/?url=github.com/tctongji.png?w=128&h=128&mask=circle&fit=cover&maxage=1w" width="64" height="64" style="border-radius:50%" />
+  </a><br><strong>唐老师</strong>
+</td>
+<!-- 继续添加更多 <td>...</td> -->
+</tr></table>
+
 <div align=center><h2> 💐 队员列表 💐 </h2></div>
 <div align=center> 感谢以下所有为TUSmart做出贡献的同学们 </div>
 <h3>🎓 21级队员</h3>
 <table style="border-collapse:collapse"><tr>
+<td style="padding:8px;text-align:center;vertical-align:top">
+  <a href="https://github.com/Rtranran">
+    <img src="https://wsrv.nl/?url=github.com/Rtranran.png?w=128&h=128&mask=circle&fit=cover&maxage=1w" width="64" height="64" style="border-radius:50%" />
+  </a><br><strong>倪玺然</strong>
+</td>
 
 <td style="padding:8px;text-align:center;vertical-align:top">
   <a href="https://github.com/kasssssss">
@@ -35,6 +57,17 @@ TU-Smart智能车队成立于2005年，主要研究汽车电子与智能化，�
   </a><br><strong>李泉霖</strong>
 </td>
 
+<td style="padding:8px;text-align:center;vertical-align:top">
+  <a href="https://github.com/Eternity-Qiao">
+    <img src="https://wsrv.nl/?url=github.com/Eternity-Qiao.png?w=128&h=128&mask=circle&fit=cover&maxage=1w" width="64" height="64" style="border-radius:50%" />
+  </a><br><strong>张化亮</strong>
+</td>
+
+<td style="padding:8px;text-align:center;vertical-align:top">
+  <a href="https://github.com/WUDIBANFAN">
+    <img src="https://wsrv.nl/?url=github.com/WUDIBANFAN.png?w=128&h=128&mask=circle&fit=cover&maxage=1w" width="64" height="64" style="border-radius:50%" />
+  </a><br><strong>王策</strong>
+</td>
 <!-- 继续添加更多 <td>...</td> -->
 </tr></table>
 <h3>🎓 23级队员</h3>
@@ -81,5 +114,59 @@ TU-Smart智能车队成立于2005年，主要研究汽车电子与智能化，�
     <img src="https://wsrv.nl/?url=github.com/GRglory123.png?w=128&h=128&mask=circle&fit=cover&maxage=1w" width="64" height="64" style="border-radius:50%" />
   </a><br><strong>郭睿</strong>
 </td>、
+
+<td style="padding:8px;text-align:center;vertical-align:top">
+  <a href="https://github.com/liufanpiao">
+    <img src="https://wsrv.nl/?url=github.com/liufanpiao.png?w=128&h=128&mask=circle&fit=cover&maxage=1w" width="64" height="64" style="border-radius:50%" />
+  </a><br><strong>柳一凡</strong>
+</td>
+
+<td style="padding:8px;text-align:center;vertical-align:top">
+  <a href="https://github.com/facefresy">
+    <img src="https://wsrv.nl/?url=github.com/facefresy.png?w=128&h=128&mask=circle&fit=cover&maxage=1w" width="64" height="64" style="border-radius:50%" />
+  </a><br><strong>黄昱智</strong>
+</td>
+
+<td style="padding:8px;text-align:center;vertical-align:top">
+  <a href="https://github.com/XuYiShe">
+    <img src="https://wsrv.nl/?url=github.com/XuYiShe.png?w=128&h=128&mask=circle&fit=cover&maxage=1w" width="64" height="64" style="border-radius:50%" />
+  </a><br><strong>徐意</strong>
+</td>
+
+<td style="padding:8px;text-align:center;vertical-align:top">
+  <a href="https://github.com/boatchanting">
+    <img src="https://wsrv.nl/?url=github.com/boatchanting.png?w=128&h=128&mask=circle&fit=cover&maxage=1w" width="64" height="64" style="border-radius:50%" />
+  </a><br><strong>高行周</strong>
+</td>
+<td style="padding:8px;text-align:center;vertical-align:top">
+  <a href="https://github.com/cxz123-new">
+    <img src="https://wsrv.nl/?url=github.com/cxz123-new.png?w=128&h=128&mask=circle&fit=cover&maxage=1w" width="64" height="64" style="border-radius:50%" />
+  </a><br><strong>陈旭章</strong>
+</td>
+<!-- 继续添加更多 <td>...</td> -->
+</tr></table>
+<h3>🎓 24级队员</h3>
+<table style="border-collapse:collapse"><tr>
+
+<td style="padding:8px;text-align:center;vertical-align:top">
+  <a href="https://github.com/GaoPeng415">
+    <img src="https://wsrv.nl/?url=github.com/GaoPeng415.png?w=128&h=128&mask=circle&fit=cover&maxage=1w" width="64" height="64" style="border-radius:50%" />
+  </a><br><strong>高鹏</strong>
+</td>
+<td style="padding:8px;text-align:center;vertical-align:top">
+  <a href="https://github.com/willfulDU">
+    <img src="https://wsrv.nl/?url=github.com/willfulDU.png?w=128&h=128&mask=circle&fit=cover&maxage=1w" width="64" height="64" style="border-radius:50%" />
+  </a><br><strong>杜诗泉</strong>
+</td>
+<td style="padding:8px;text-align:center;vertical-align:top">
+  <a href="https://github.com/Zhanghuaiwen">
+    <img src="https://wsrv.nl/?url=github.com/Zhanghuaiwen.png?w=128&h=128&mask=circle&fit=cover&maxage=1w" width="64" height="64" style="border-radius:50%" />
+  </a><br><strong>张怀文</strong>
+</td>
+<td style="padding:8px;text-align:center;vertical-align:top">
+  <a href="https://github.com/suskiaaa">
+    <img src="https://wsrv.nl/?url=github.com/suskiaaa.png?w=128&h=128&mask=circle&fit=cover&maxage=1w" width="64" height="64" style="border-radius:50%" />
+  </a><br><strong>曹欣怡</strong>
+</td>
 <!-- 继续添加更多 <td>...</td> -->
 </tr></table>
